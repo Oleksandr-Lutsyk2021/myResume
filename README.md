@@ -1,2 +1,2 @@
 # myResume
-This is my personal work CV or, rather, extended resume.
+This is my personal work CV or, rather, extended résumé.
